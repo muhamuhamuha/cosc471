@@ -28,7 +28,6 @@
 * <span class="question">Can views be used in calculations?</span>
 * <span class="question">Is saving a summary (to be used in reporting) in a view ok? Or is there a better mechanism for doing something like this (e.g. just save it as a table?)</span>
 
-
 ```sql
 -- CREATE VIEW view_name AS <some valid SQL here>
 
